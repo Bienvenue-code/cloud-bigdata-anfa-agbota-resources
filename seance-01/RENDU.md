@@ -1,7 +1,6 @@
 # Rendu Séance 1
 
-**Nom et prénom :** AGBOTA Adjo Anne  
-**Identifiant GitHub :** Bienvenue-code  
+**Nom et prénom :** AGBOTA Adjo Anne Bienvenue Sika
 
 ---
 
