@@ -1,0 +1,8 @@
+# terraform.tfvars.example — modèle de configuration (aucun secret réel)
+# terraform.tfvars est dans .gitignore et ne sera jamais commité.
+
+minio_root_user     = "anfa-admin"
+minio_root_password = "changeme"
+minio_api_port      = 9000
+minio_console_port  = 9001
+container_name      = "anfa-minio-tf"
