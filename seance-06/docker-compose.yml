@@ -24,7 +24,7 @@ x-airflow-common: &airflow-common
 services:
 
   postgres:
-    image: postgres:18-alpine
+    image: postgres:15-alpine
     container_name: anfa-postgres
     restart: unless-stopped
     environment:

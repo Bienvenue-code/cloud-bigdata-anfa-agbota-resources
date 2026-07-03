@@ -71,7 +71,6 @@ def verifier_resultats():
     if len(objets) > 5:
         print(f"  ... et {len(objets) - 5} autres")
 
-
 def notifier():
     """Tâche 4 : notification (ici un log ; en prod : email/Slack/PagerDuty)."""
     print("=" * 60)
